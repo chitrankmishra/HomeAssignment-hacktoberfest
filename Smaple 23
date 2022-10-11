@@ -1,0 +1,34 @@
+export function appendProdMetaDataToOrders(orderLines) {
+	orderLines.map(orderLine => {
+		const product = process.prodCacheMap[orderLine.product_id];
+
+		if (product) {
+			orderLine.image_url = product.image_url;
+			orderLine.description = product.description;
+		}
+
+		return orderLine;
+	});
+}export function appendProdMetaDataToOrders(orderLines) {
+	orderLines.map(orderLine => {
+		const product = process.prodCacheMap[orderLine.product_id];
+
+		if (product) {
+			orderLine.image_url = product.image_url;
+			orderLine.description = product.description;
+		}
+
+		return orderLine;
+	});
+}export function appendProdMetaDataToOrders(orderLines) {
+	orderLines.map(orderLine => {
+		const product = process.prodCacheMap[orderLine.product_id];
+
+		if (product) {
+			orderLine.image_url = product.image_url;
+			orderLine.description = product.description;
+		}
+
+		return orderLine;
+	});
+}
