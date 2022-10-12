@@ -39,3 +39,14 @@ int main()
         }
     return 0;
 }
+ this input list contains duplicates
+mylist = [5, 3, 5, 2, 1, 6, 6, 4] # 5 & 6 are duplicate numbers.
+# find the length of the list
+print(len(mylist))
+8
+# create a set from the list
+myset = set(mylist)
+# find the length of the Python set variable myset
+print(len(myset))
+6
+
