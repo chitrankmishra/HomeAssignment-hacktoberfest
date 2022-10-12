@@ -17,3 +17,15 @@ int main(){
 }ing namespace std;
 out<<y<<"\n";
 }
+
+fun reverse(str: String): String {
+    return StringBuilder(str).reverse().toString()
+}
+ 
+fun main() {
+    var str = "Hello"
+ 
+    var reverse = reverse(str)
+ 
+    println(reverse)        // olleH
+}
