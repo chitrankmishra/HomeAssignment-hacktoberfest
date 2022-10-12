@@ -13,3 +13,17 @@ int main()
     cout << "Value of a now: " << a << endl;
     cout << "Value of b now: " << b << endl;
     return 0;
+    
+    
+    
+fun reverse(str: String): String {
+    return StringBuilder(str).reverse().toString()
+}
+ 
+fun main() {
+    var str = "Hello"
+ 
+    var reverse = reverse(str)
+ 
+    println(reverse)        // olleH
+}
