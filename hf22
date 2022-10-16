@@ -1,0 +1,69 @@
+export const getStatusDisplayValue = (status) => {
+  switch (status) {
+      case "FULFILLED":
+          return "Fulfilled";
+      case "CANCELLED":
+          return "Cancelled";
+      case "PARTIALLY_FULFILLED":
+          return "Partially Fulfilled";
+      case "RETURNED":
+          return "Returned";
+      case "PENDING":
+          return "Pending";
+      case "PROCESSING":
+          return "Processing";
+      default:
+          return status;
+  }
+};export const getStatusDisplayValue = (status) => {
+  switch (status) {
+      case "FULFILLED":
+          return "Fulfilled";
+      case "CANCELLED":
+          return "Cancelled";
+      case "PARTIALLY_FULFILLED":
+          return "Partially Fulfilled";
+      case "RETURNED":
+          return "Returned";
+      case "PENDING":
+          return "Pending";
+      case "PROCESSING":
+          return "Processing";
+      default:
+          return status;
+  }
+};export const getStatusDisplayValue = (status) => {
+  switch (status) {
+      case "FULFILLED":
+          return "Fulfilled";
+      case "CANCELLED":
+          return "Cancelled";
+      case "PARTIALLY_FULFILLED":
+          return "Partially Fulfilled";
+      case "RETURNED":
+          return "Returned";
+      case "PENDING":
+          return "Pending";
+      case "PROCESSING":
+          return "Processing";
+      default:
+          return status;
+  }
+};export const getStatusDisplayValue = (status) => {
+  switch (status) {
+      case "FULFILLED":
+          return "Fulfilled";
+      case "CANCELLED":
+          return "Cancelled";
+      case "PARTIALLY_FULFILLED":
+          return "Partially Fulfilled";
+      case "RETURNED":
+          return "Returned";
+      case "PENDING":
+          return "Pending";
+      case "PROCESSING":
+          return "Processing";
+      default:
+          return status;
+  }
+};
