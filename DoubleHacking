@@ -9,6 +9,27 @@ class doubleHash
 {
 public:
     
+#define   R   99991
+
+
+class doubleHash
+{
+public:
+    
+#define   R   99991
+
+
+class doubleHash
+{
+public:
+    
+#define   R   99991
+
+
+class doubleHash
+{
+public:
+    
     long int *hash
 
     void insertHash(int key) 
