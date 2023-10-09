@@ -7,6 +7,24 @@ public:
     
     Node() {
         val = 0;
+public:
+    int val;
+    vector<Node*> neighbors;
+    
+    Node() {
+        val = 0;
+public:
+    int val;
+    vector<Node*> neighbors;
+    
+    Node() {
+        val = 0;
+public:
+    int val;
+    vector<Node*> neighbors;
+    
+    Node() {
+        val = 0;
         neighbors = vector<Node*>();
     }
     
