@@ -6,6 +6,18 @@ int main()
     int a = 10;
     int b = 20;
     cout << "Value of a before: " << a << endl;
+{
+    int a = 10;
+    int b = 20;
+    cout << "Value of a before: " << a << endl;
+{
+    int a = 10;
+    int b = 20;
+    cout << "Value of a before: " << a << endl;
+{
+    int a = 10;
+    int b = 20;
+    cout << "Value of a before: " << a << endl;
     cout << "Value of b before: " << b << endl;
   
    
