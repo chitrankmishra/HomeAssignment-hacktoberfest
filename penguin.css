@@ -15,6 +15,46 @@
   }
 
 
+  .penguin {
+    position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 5%;
+    width: var(--penguin-size, 300px);
+    height: var(--penguin-size, 300px);
+  }
+
+
+  .penguin {
+    position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 5%;
+    width: var(--penguin-size, 300px);
+    height: var(--penguin-size, 300px);
+  }
+
+
+  .penguin {
+    position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 5%;
+    width: var(--penguin-size, 300px);
+    height: var(--penguin-size, 300px);
+  }
+
+
+  .penguin {
+    position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 5%;
+    width: var(--penguin-size, 300px);
+    height: var(--penguin-size, 300px);
+  }
+
+
   .left-cheek {
     top: 15%;
     left: 5%;
