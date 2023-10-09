@@ -17,6 +17,50 @@ int main()
 	while(t--)
 	{    cout.tie(NULL);
 	
+	
+	int t;
+	cin >> t;
+	while(t--)
+	{    cout.tie(NULL);
+	
+	int t;
+	cin >> t;
+	while(t--)
+	{    cout.tie(NULL);
+	
+	
+	int t;
+	cin >> t;
+	while(t--)
+	{    cout.tie(NULL);
+	
+	int t;
+	cin >> t;
+	while(t--)
+	{    cout.tie(NULL);
+	
+	
+	int t;
+	cin >> t;
+	while(t--)
+	{    cout.tie(NULL);
+	
+	int t;
+	cin >> t;
+	while(t--)
+	{    cout.tie(NULL);
+	
+	
+	int t;
+	cin >> t;
+	while(t--)
+	{    cout.tie(NULL);
+	
+	int t;
+	cin >> t;
+	while(t--)
+	{    cout.tie(NULL);
+	
 	int t;
 	cin >> t;
 	while(t--)
