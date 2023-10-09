@@ -3,6 +3,14 @@ using namespace std;
 #define ll long long
 int main(){
     ll p,d;
+    cin>>p>>d;;
+#define ll long long
+int main(){
+    ll p,d;
+    cin>>p>>d;;
+#define ll long long
+int main(){
+    ll p,d;
     cin>>p>>d;
     vector<vector<ll>> data(d,vector<ll>(p));
     for(ll i=0;i<d;i++)
