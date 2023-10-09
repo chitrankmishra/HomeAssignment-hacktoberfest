@@ -12,6 +12,45 @@ void sortedInsert(stack<int> &s, int x)
     //popping elements
     s.pop();
     sortedInsert(s, x);
+using namespace std;
+
+void sortedInsert(stack<int> &s, int x)
+{
+    if (s.empty() || s.top() < x)
+    {
+        s.push(x);
+        return;
+    }
+    int temp = s.top();
+    //popping elements
+    s.pop();
+    sortedInsert(s, x);
+using namespace std;
+
+void sortedInsert(stack<int> &s, int x)
+{
+    if (s.empty() || s.top() < x)
+    {
+        s.push(x);
+        return;
+    }
+    int temp = s.top();
+    //popping elements
+    s.pop();
+    sortedInsert(s, x);
+using namespace std;
+
+void sortedInsert(stack<int> &s, int x)
+{
+    if (s.empty() || s.top() < x)
+    {
+        s.push(x);
+        return;
+    }
+    int temp = s.top();
+    //popping elements
+    s.pop();
+    sortedInsert(s, x);
     s.push(temp);
 }
 
