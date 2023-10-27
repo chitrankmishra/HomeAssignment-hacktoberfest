@@ -10,8 +10,8 @@ int main(){
 	fn1(int x)
 {
 
-	if(x>0){
-		fun1(x-1);
+	if(x>2){
+		fun1(x-2);
 		cout<<x<<"\n";
 		y++;un1(x);
 }ing namespace std;
