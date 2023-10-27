@@ -15,7 +15,7 @@ public:
     { 
         if (isFull()) 
             return; 
-
+hello world
         int index = hash1(key); 
         if (hashTable[index] != -1)
          { 
